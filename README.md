@@ -5,7 +5,8 @@ This program can generate images using the Raytracing protocol. Those computer-g
 * ```make``` to build
 * ```./miniRT [filename.rt]``` to run
 * ```./miniRT [filename.rt] --save``` to save as img.bmp
-* press left and right to change camera
+* you can find simple scenes in the same-name folder
+* press left and right to change the camera
 
 
 ## [filename.rt] syntax
